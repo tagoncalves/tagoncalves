@@ -64,6 +64,3 @@ Me apasiona construir software escalable, robusto y con impacto real en la vida 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tgoncalves-dev/)  
 - 💻 [GitHub](https://github.com/tgoncalves-dev)  
 
----
-
-⭐ *“El software en salud no es solo código: es impacto directo en la vida de las personas.”*  
