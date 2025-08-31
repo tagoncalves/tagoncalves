@@ -18,6 +18,7 @@ Me apasiona construir software escalable, robusto y con impacto real en la vida 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![HL7](https://img.shields.io/badge/HL7-FHIR-006699?style=for-the-badge)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
@@ -55,13 +56,6 @@ Me apasiona construir software escalable, robusto y con impacto real en la vida 
 - **Desarrollo en Angular** – UTN Buenos Aires *(2022)*  
 - **Desarrollo en React.js** – UTN Buenos Aires *(2022)*  
 - **Curso C# Nivel I** – Maxiprograma *(2021)*  
-
----
-
-## 📈 Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tgoncalves-dev&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgoncalves-dev&layout=compact&theme=tokyonight)  
 
 ---
 
