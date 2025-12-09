@@ -1,6 +1,6 @@
-# 👋 Hola, soy Tomás Goncalves  
+# Hola, soy Tomás Goncalves  
 
-### 🚀 Fullstack Software Developer | Salud · Integraciones · Microservicios - Freelance  
+### Fullstack Software Developer | Salud · Integraciones · Microservicios - Freelance  
 
 Soy **Backend Software Developer Ssr. en Sofre Digital**, con experiencia en el sector salud desarrollando proyectos críticos, integraciones con estándares de interoperabilidad y sistemas hospitalarios.  
 Me apasiona construir software escalable, robusto y con impacto real en la vida de las personas.  
