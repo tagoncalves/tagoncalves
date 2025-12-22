@@ -50,6 +50,7 @@ Me apasiona construir software escalable, robusto y con impacto real en la vida 
 
 ## 📜 Certificaciones  
 
+- **Data Science I** – CoderHouse *(2025)*  
 - **HL7 FHIR Fundamentals** – HL7 Argentina *(2024)*  
 - **EF SET Certificate (B1 English)** – EF *(2024)*  
 - **Desarrollo en Node.js** – UTN Buenos Aires *(2022)*  
